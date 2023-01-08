@@ -201,7 +201,7 @@ h6 {
 
   #dog_pic {
     position: static;
-    transform: rotate(0);
+    transform: rotate(-25deg);
     width: 60%;
   }
 }
